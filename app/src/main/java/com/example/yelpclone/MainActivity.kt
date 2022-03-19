@@ -15,7 +15,7 @@ import java.util.*
 
 
 private const val BASE_URL = "https://api.yelp.com/v3/"
-private const val API_KEY ="O8hkIqLVDJLd9njMy0l-VduP0LTPLmcLQLGDpe_Mwaxe8zmiWERyOaJ_9tIFepMB46QuHe80Ey2dGo-LrC4pgT6M3aJrg6vFJtf13DqYpOddvpz1pFDHN0h9qXk1YnYx"
+private const val API_KEY =""
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
